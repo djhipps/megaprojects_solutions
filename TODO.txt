@@ -1,0 +1,4 @@
+1. Add underscore
+2. Javascript casting review
+3. List different numbers of methods to make classes
+4. use nodejs server rather than browser
