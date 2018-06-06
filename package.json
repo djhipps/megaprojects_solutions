@@ -1,0 +1,27 @@
+{
+  "name": "megaproject_solutions",
+  "version": "1.0.0",
+  "description": "An app that delivers all the mega projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhipps/megaprojects_solutions.git"
+  },
+  "keywords": [
+    "learning",
+    "reference"
+  ],
+  "author": "Damian Hippisley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djhipps/megaprojects_solutions/issues"
+  },
+  "homepage": "https://github.com/djhipps/megaprojects_solutions#readme",
+  "dependencies": {
+    "lodash": "4.17.10",
+    "yargs": "11.0.0"
+  }
+}
